@@ -1,7 +1,7 @@
 import { render, screen } from "@testing-library/react"
 import { vi } from "vitest"
 import Tasks from "./Tasks"
-import { data } from "../../mocks/data"
+
 import { server } from "../../mocks/server"
 import Task from "./Task"
 import { http, HttpResponse } from "msw"
