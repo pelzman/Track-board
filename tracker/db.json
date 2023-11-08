@@ -1,9 +1,9 @@
 {
   "tasks": [
     {
-      "text": "hhhh",
-      "day": "ggggg",
-      "reminder": false,
+      "text": "washing",
+      "day": "Friday, 8am - 9am",
+      "reminder": true,
       "id": 1
     }
   ]
